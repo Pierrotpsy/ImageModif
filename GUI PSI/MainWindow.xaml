@@ -1,0 +1,38 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextBox Demo"
+        Height="800"
+        Width="1550"
+        SizeToContent="WidthAndHeight"
+         ResizeMode="NoResize">
+    <Grid Margin="0,0,0,0">
+
+        <Label Content="PSI tableau de contrôle" FontSize ="40" Margin="36,22,932.6,689.4"/>
+        <Button Click ="OpenFile" Content="Open File" FontSize =" 50" Margin="1103,22,22.6,675.4"/>
+        <Button Click ="BandW" Content="Noir et Blanc" FontSize =" 20" Margin="1332,112,24,617.4" RenderTransformOrigin="0.5,0.5"/>
+        <Button Click ="EdgeDet" Content="Détection contours" FontSize =" 20" Margin="1220,169,241,563.4"/>
+        <Button Click ="Mirror" Content="Mirroir" FontSize =" 20" Margin="1322,169,24,563.4"/>
+        <Button Click ="Rot" Content="Rotation" FontSize =" 20" Margin="1220,227,241,503.4"/>
+        <Button Click ="GrayScale" Content="Nuances de gris" FontSize =" 20" Margin="1103,112,241,617.4"/>
+        <Button Click ="Mandelbrot" Content="Mandelbrot" FontSize =" 20" Margin="1104,454,241,276.4"/>
+        <Button Click ="Rot90" Content="Rotation 90" FontSize =" 20" Margin="1322,227,23,503.4"/>
+        <Button Click ="EdgeDet" Content="Détection contours" FontSize =" 10" Margin="1374,337,227,402"/>
+        <Button Click ="Fuzzy" Content="Flou" FontSize =" 20" Margin="1321,281,24,447.4"/>
+        <Button Click ="Scale" Content="Modification taille" FontSize =" 10" Margin="1424,454,23,276.4"/>
+        <Button Click ="Contrast" Content="Augmentation contraste" FontSize =" 16" Margin="1323,337,23,393.4"/>
+        <Button Click ="Histo" Content="Histogramme" FontSize =" 16" Margin="1323,392,23,335.4" RenderTransformOrigin="-3.223,-4.286"/>
+        <Button Click ="Embossing" Content="Repoussage" FontSize =" 20" Margin="1104,337,241,393.4"/>
+        <Button Click ="EdgeRefor" Content="Renforcement bords" FontSize =" 20" Margin="1103,281,241,447.4" RenderTransformOrigin="-3.495,-3.959"/>
+        <Button Click ="QR" Content="QR Code" FontSize =" 16" Margin="1206,392,241,335.4"/>
+        <TextBox Name ="QRcode" Margin="1104,392,347,335.4"/>
+        <TextBox Name ="Resize" Margin="1332,454,125,276.4"/>
+        <TextBox Name ="Rotation" Margin="1104,227,329,503.4"/>
+        <TextBox Name ="Edge" Margin="1104,169,329,563.4"/>
+        <Button Click ="Reset" Content="Reset" FontSize =" 16" Margin="1220,571,138,114.4"/>
+
+        <Image x:Name="ImageViewer1" Margin="29,112,501,28.4" />
+
+
+    </Grid>
+</Window>

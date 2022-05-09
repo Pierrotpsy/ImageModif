@@ -1,0 +1,42 @@
+C:/Users/33769/source/repos/TD2_S4/bin/Debug/TD2_S4.exe.config
+C:/Users/33769/source/repos/TD2_S4/bin/Debug/TD2_S4.exe
+C:/Users/33769/source/repos/TD2_S4/bin/Debug/TD2_S4.pdb
+C:/Users/33769/source/repos/TD2_S4/obj/Debug/PSI.csprojAssemblyReference.cache
+C:/Users/33769/source/repos/TD2_S4/obj/Debug/PSI.csproj.CoreCompileInputs.cache
+C:/Users/33769/source/repos/TD2_S4/obj/Debug/TD2_S4.exe
+C:/Users/33769/source/repos/TD2_S4/obj/Debug/TD2_S4.pdb
+C:/Users/33769/source/repos/PSI/bin/Debug/TD2_S4.exe.config
+C:/Users/33769/source/repos/PSI/bin/Debug/TD2_S4.exe
+C:/Users/33769/source/repos/PSI/bin/Debug/TD2_S4.pdb
+C:/Users/33769/source/repos/PSI/obj/Debug/PSI.csprojAssemblyReference.cache
+C:/Users/33769/source/repos/PSI/obj/Debug/PSI.csproj.CoreCompileInputs.cache
+C:/Users/33769/source/repos/PSI/obj/Debug/TD2_S4.exe
+C:/Users/33769/source/repos/PSI/obj/Debug/TD2_S4.pdb
+/Users/antoinemauvoisin/Documents/A ESILV année 2/S4/problème scientifique/Code/PSI/bin/Debug/TD2_S4.exe.config
+/Users/antoinemauvoisin/Documents/A ESILV année 2/S4/problème scientifique/Code/PSI/bin/Debug/TD2_S4.exe
+/Users/antoinemauvoisin/Documents/A ESILV année 2/S4/problème scientifique/Code/PSI/bin/Debug/TD2_S4.pdb
+/Users/antoinemauvoisin/Documents/A ESILV année 2/S4/problème scientifique/Code/PSI/obj/Debug/PSI.csprojAssemblyReference.cache
+/Users/antoinemauvoisin/Documents/A ESILV année 2/S4/problème scientifique/Code/PSI/obj/Debug/PSI.csproj.CoreCompileInputs.cache
+/Users/antoinemauvoisin/Documents/A ESILV année 2/S4/problème scientifique/Code/PSI/obj/Debug/TD2_S4.exe
+/Users/antoinemauvoisin/Documents/A ESILV année 2/S4/problème scientifique/Code/PSI/obj/Debug/TD2_S4.pdb
+C:\Users\33769\Downloads\PSI\obj\Debug\PSI.csprojAssemblyReference.cache
+C:\Users\33769\Downloads\PSI\obj\Debug\PSI.csproj.CoreCompileInputs.cache
+C:\Users\33769\Downloads\PSI\obj\Debug\TD2_S4.exe
+C:\Users\33769\Downloads\PSI\obj\Debug\TD2_S4.pdb
+C:\Users\33769\Downloads\PSI\bin\Debug\TD2_S4.exe.config
+C:\Users\33769\Downloads\PSI\bin\Debug\TD2_S4.exe
+C:\Users\33769\Downloads\PSI\bin\Debug\TD2_S4.pdb
+C:\Users\33769\source\repos\PSI - qrcode\bin\Debug\TD2_S4.exe.config
+C:\Users\33769\source\repos\PSI - qrcode\bin\Debug\TD2_S4.exe
+C:\Users\33769\source\repos\PSI - qrcode\bin\Debug\TD2_S4.pdb
+C:\Users\33769\source\repos\PSI - qrcode\obj\Debug\PSI.csprojAssemblyReference.cache
+C:\Users\33769\source\repos\PSI - qrcode\obj\Debug\PSI.csproj.CoreCompileInputs.cache
+C:\Users\33769\source\repos\PSI - qrcode\obj\Debug\TD2_S4.exe
+C:\Users\33769\source\repos\PSI - qrcode\obj\Debug\TD2_S4.pdb
+C:\Users\33769\source\repos\PSI - final\bin\Debug\TD2_S4.exe.config
+C:\Users\33769\source\repos\PSI - final\bin\Debug\TD2_S4.exe
+C:\Users\33769\source\repos\PSI - final\bin\Debug\TD2_S4.pdb
+C:\Users\33769\source\repos\PSI - final\obj\Debug\PSI.csprojAssemblyReference.cache
+C:\Users\33769\source\repos\PSI - final\obj\Debug\PSI.csproj.CoreCompileInputs.cache
+C:\Users\33769\source\repos\PSI - final\obj\Debug\TD2_S4.exe
+C:\Users\33769\source\repos\PSI - final\obj\Debug\TD2_S4.pdb

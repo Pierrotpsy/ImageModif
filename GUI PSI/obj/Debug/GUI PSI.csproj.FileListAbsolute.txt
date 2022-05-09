@@ -1,0 +1,18 @@
+C:\Users\33769\source\repos\GUI PSI\bin\Debug\GUI PSI.exe.config
+C:\Users\33769\source\repos\GUI PSI\bin\Debug\GUI PSI.exe
+C:\Users\33769\source\repos\GUI PSI\bin\Debug\GUI PSI.pdb
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI PSI.csprojAssemblyReference.cache
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\MainWindow.g.cs
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\App.g.cs
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI PSI_MarkupCompile.cache
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\MainWindow.baml
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI PSI.g.resources
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI_PSI.Properties.Resources.resources
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI PSI.csproj.GenerateResource.cache
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI PSI.csproj.CoreCompileInputs.cache
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI PSI.exe
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI PSI.pdb
+C:\Users\33769\source\repos\GUI PSI\bin\Debug\TD2_S4.exe
+C:\Users\33769\source\repos\GUI PSI\bin\Debug\TD2_S4.pdb
+C:\Users\33769\source\repos\GUI PSI\bin\Debug\TD2_S4.exe.config
+C:\Users\33769\source\repos\GUI PSI\obj\Debug\GUI PSI.csproj.CopyComplete
